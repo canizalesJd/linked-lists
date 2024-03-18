@@ -1,0 +1,20 @@
+{
+	"name": "linked-lists",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "Linked Lists implementation for The Odin Project Curriculum",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/canizalesJd/linked-lists.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/canizalesJd/linked-lists/issues"
+	},
+	"homepage": "https://github.com/canizalesJd/linked-lists#readme"
+}
